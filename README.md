@@ -6,7 +6,7 @@ Coffeescript programming code
 Wikipedia article  
 https://en.wikipedia.org/wiki/CoffeeScript  
 
-CoffeeScript.org, clicking TAB: [Try CoffeeScript] allows you to practice doing CoffeeScript code online.  
+CoffeeScript.org, clicking tab menu option: [Try CoffeeScript] allows you to practice doing CoffeeScript code online.  
 http://www.coffeescript.org  
 
 JS2.coffee site Shows bi-directional Javascript/Coffeescript codes...   
