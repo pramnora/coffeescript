@@ -1,2 +1,3 @@
 #compute, and, display each square for numbers ranging from 1 up to 10... 
 alert n*n for n in [1..10]
+#output: 1 4 9 16 25 36 49 64 81 100
