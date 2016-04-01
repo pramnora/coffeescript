@@ -1,4 +1,4 @@
-#Compute, and, display each square of all 'odd' numbers ranging from 1 up to 10: 1,3,5,7,9.
+#Compute, and, display the square of all 'odd' numbers ranging from 1 up to 10: 1,3,5,7,9.
 #NOTE: Uses the keyword: 'by'...
 
 alert n*n for n in [1..10] by 2
